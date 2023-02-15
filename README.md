@@ -2,7 +2,7 @@
 
 👩‍💻 I'm a Test Automation Engineer
 
-🧠 I'm currently learning Cyber Security and Spring Boot Framework 
+🧠 I'm currently learning Cyber Security and Back-End development/Spring Boot Framework 
 
 🔗 Links
 
